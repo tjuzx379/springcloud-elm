@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/food_server_10200/pom.xml" />
+        <option value="$PROJECT_DIR$/eurake_server_13000/pom.xml" />
+        <option value="$PROJECT_DIR$/business_server_10300/pom.xml" />
+        <option value="$PROJECT_DIR$/cart_server_10400/pom.xml" />
+        <option value="$PROJECT_DIR$/deliveryaddress_server_10500/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
